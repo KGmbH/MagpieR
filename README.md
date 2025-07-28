@@ -211,3 +211,9 @@ latin_custom <- create_latin_square(conditions = 3, lists = 6)
 
 # Then use with generate_magpie_experiment()
 # (Note: Currently requires manual implementation for non-square designs)
+Package Information
+
+Version: 0.1.0
+License: MIT
+Dependencies: Base R only
+Year: 2025
