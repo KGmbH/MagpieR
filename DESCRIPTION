@@ -13,3 +13,5 @@ Suggests:
     knitr,
     rmarkdown
 VignetteBuilder: knitr
+URL: https://github.com/KGmbH/latinSquares
+BugReports: https://github.com/KGmbH/latinSquares/issues
